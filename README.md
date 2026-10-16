@@ -1,8 +1,10 @@
-# GoJSON Database Engine
+# Culdesac - GoJSON Database Engine
 
 A lightweight, modern JSON document database built from scratch in Go (inspired by MongoDB and CockroachDB architectures). This project implements a local file-based NoSQL document store with concurrent write protection using mutex locking.
 
 ---
+
+<img width="3499" height="1805" alt="image" src="https://github.com/user-attachments/assets/fe634491-4b89-4a2f-8a88-6e32bcffc566" />
 
 ## Features
 
